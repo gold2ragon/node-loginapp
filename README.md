@@ -1,7 +1,7 @@
 # Node login app
 
-![Login](./public/login.PNG)
-![Login](./public/register.PNG)
+![Login](https://github.com/smartwebcoder/node-loginapp/blob/master/public/login.png?raw=true)
+![Login](https://github.com/smartwebcoder/node-loginapp/blob/master/public/register.png?raw=true)
 
 
 This is a user login and registration app using Node.js, Express, Passport and Mongoose. It is part of the YouTube series [here](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
